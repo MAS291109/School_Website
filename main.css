@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+#welcome{
+background-image: linear-gradient( #72A0C1 0%,#00FFFF 100%)
+}
+#welc_marquee{
+    font-size: 30px;
+    color: white;
+    font-family: fantasy;
+}
+#details{
+    font-size: 10px;
+    color: aliceblue;
+    font-family: inherit;
+}
+#contact_learn{
+    font-size: 25px;
+    color: black;
+}
+#contact_number,#contact_website{
+    font-size: 20px;
+    color: gold;
+}
